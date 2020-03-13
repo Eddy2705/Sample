@@ -22,7 +22,7 @@ public class Learn_Properties {
 		
 		abc.setProperty("Cat", "Kill");
 		abc.setProperty("Boy", "Girl");
-		abc.store(OP, "nan than");
+		abc.store(OP, "nan thana");
 		
 		
 
